@@ -1,0 +1,111 @@
+HTML5中国产业联盟开发文档：
+http://www.html5plus.org/doc/zh_cn/camera.html
+
+******************************************************************************************
+
+MUI前段框架开发文档
+http://dev.dcloud.net.cn/mui/
+
+******************************************************************************************
+
+IIS部署
+https://www.cnblogs.com/teyigou/p/8125379.html
+
+******************************************************************************************
+
+SVN环境搭建
+http://www.cnblogs.com/oyjt/p/3295801.html
+
+******************************************************************************************
+
+Asp.net文档
+https://docs.microsoft.com/zh-cn/aspnet/overview
+
+******************************************************************************************
+
+ASP.net Core 文档
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-2.2
+
+******************************************************************************************
+.net Core 教程
+https://space.bilibili.com/361469957/
+
+******************************************************************************************
+
+www.bilibili.com
+
+******************************************************************************************
+
+GetHub 平台
+https://github.com/aspnet/AspNetCore
+
+GetHub:Uname:tianfx4611 PassWord:tfx9712134611
+
+******************************************************************************************
+JSON格式化工具
+http://www.bejson.com/jsonviewernew
+
+******************************************************************************************
+https://space.bilibili.com/361469957/ IdentityServer4教程
+
+******************************************************************************************
+visual studio 安装或更新
+https://docs.microsoft.com/zh-cn/visualstudio/install/install-visual-studio?view=vs-2019  
+
+******************************************************************************************
+IConfigration：
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=windows  
+******************************************************************************************
+.net core 依赖注入的几种模式
+https://www.cnblogs.com/gdsblog/p/8465101.html?tdsourcetag=s_pctim_aiomsg
+
+*******************************************************************
+百度智能语音开发文档
+http://ai.baidu.com/tech/speech/tts 
+
+*******************************************************************
+.net开发技术：
+
+https://www.cnblogs.com/1996V/p/7700087.html
+*****************************************************************************************
+EF实体框架：
+https://blog.csdn.net/net5x/article/details/80522149
+
+*****************************************************************************************
+Git 常用命令及方法大全：
+https://blog.csdn.net/web_csdn_share/article/details/79243308
+
+
+*****************************************************************************************
+webapi 身份验证需要添加的引用
+Microsoft.AspNet.WebApi.Owin
+
+Owin
+
+Microsoft.Owin.Host.SystemWeb
+
+Microsoft.Owin.Security.OAuth
+
+Microsoft.Owin.Security.Cookies
+
+Microsoft.AspNet.Identity.Owin
+
+Microsoft.Owin.Cors
+
+
+windows 2019 server Standard 激活步骤：
+cmd:
+ slmgr /upk
+ slmgr /ipk N69G4-B89J2-4G8F4-WWYCC-J464C
+ slmgr /skms zh.us.to
+ slmgr /ato
+ slmgr /xpr  查询到期时间
+
+************下载脚本链接****************************
+https://greasyfork.org/zh-CN/scripts
+
+
+****************************************Task和async/await详解***********************************************
+https://www.cnblogs.com/soundcode/p/11465125.html
+
